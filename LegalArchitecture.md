@@ -3,9 +3,7 @@
 * Description: This deliverable will be a sketch of multiple potential legal architecetures for ECSA, including: 
 
 > (1) Classic Corporate Model
-
 > (2) BLT Federated Model
-
 > (3) Democratic Model
 
 * Purpose: This deliverable is intended to assist with a Space offering. 
