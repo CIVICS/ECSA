@@ -10,4 +10,4 @@
 
 * Purpose: This deliverable is intended to assist with a Space offering. 
 * Provisos: This deliverable will be very high level, in mostly or entirely outline format and broadly general in nature.  Advice of counsel is recommended for iteration of legal instruments and processes  described in a legal architecture and definite or specific legal components appropriate for operational use are out of scope of this architectural deliverable.
-* **End of November, 2017**
+* **End of November, 2017: V.0.1**
