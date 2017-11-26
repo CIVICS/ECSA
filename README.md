@@ -20,7 +20,7 @@ This Repository is for iteration and distribution of deliverables for the Econom
 | [BLTMatrix.md](https://github.com/CIVICS/ECSA/blob/master/BLTMatrix.md)                               	|     [#2](https://github.com/CIVICS/ECSA/issues/2)      	|      [#3](https://github.com/CIVICS/ECSA/issues/3)        	| Out of Scope 	| Out of Scope 	|
 | [LegalArchitecture.md](https://github.com/CIVICS/ECSA/blob/master/LegalArchitecture.md)               	|      [#10](https://github.com/CIVICS/ECSA/issues/10)        	|     [#11](https://github.com/CIVICS/ECSA/issues/11)         	| Out of Scope 	| Out of Scope 	|
 | [GitHubProductionWorkshop.md](https://github.com/CIVICS/ECSA/blob/master/GitHubProductionWorkshop.md) 	| Out of Scope 	| Out of Scope 	| Out of Scope 	|      [#12](https://github.com/CIVICS/ECSA/issues/12)        	|
-| [OpenSourceContractsProjectFeedback.md]( https://github.com/CIVICS/ECSA/blob/master/OpenSourceContractsProjectFeedback.md) 	| Out of Scope 	| Out of Scope 	|  	|              	|
+| [OpenSourceContractsProjectFeedback.md]( https://github.com/CIVICS/ECSA/blob/master/OpenSourceContractsProjectFeedback.md) 	| Out of Scope 	| Out of Scope 	| [#13](https://github.com/CIVICS/ECSA/issues/13) 	|   [#14](https://github.com/CIVICS/ECSA/issues/14)           	|
 
 
 
